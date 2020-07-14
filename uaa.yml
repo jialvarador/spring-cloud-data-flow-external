@@ -28,7 +28,7 @@ smtp:
 
 database:
   driverClassName: org.postgresql.Driver
-  url: jdbc:postgresql://172.20.128.20:5432/postgres
+  url: jdbc:postgresql://172.20.128.290:5432/postgres
   username: postgres
   password: rootpw
   maxactive: 100
