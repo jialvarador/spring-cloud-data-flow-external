@@ -1,3 +1,8 @@
+- name: GitGuardian Shield Action
+  uses: GitGuardian/gg-shield-action@v1.1.0
+
+
+
 #spring_profiles: mysql,default,ldap
 spring_profiles: postgresql,default,ldap
 
