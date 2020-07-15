@@ -10,19 +10,7 @@ issuer:
   uri: http://localhost:8080/uaa
 ##spring_profiles: default,hsqldb
 
-smtp:
-  host: smtp.gmail.com
-  port: 587
-  user: ida.cloud.testing@gmail.com
-  password: infotecKA2020E
-  protocol: smtp
-  auth: true
-  starttls: true
-  tls: true
-  properties.mail.smtp:
-            auth: true
-            starttls.enable: true
-            ssl.trust: smtp.gmail.com
+
 
 ## Aqui podemos cambiar la configuracion de la base de datos.  
 #database:
